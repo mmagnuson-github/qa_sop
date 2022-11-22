@@ -11,3 +11,5 @@ assignees: ''
 - [ ] All the pictures have captions
 - [ ] 10.1
   - [ ] Score matches the finding
+  - [ ] Something
+- [ ] Something else
